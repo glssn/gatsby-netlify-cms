@@ -1,10 +1,10 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
-upcomingMeetupHeading: Upcoming Meetup
+  image: /img/89349532_3055574041120036_7748839141990727680_n.jpg
+  imageAlt: Major Incident
+title: Warwick First Aid Society
+upcomingMeetupHeading: About us
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
