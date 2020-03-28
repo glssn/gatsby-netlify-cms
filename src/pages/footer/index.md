@@ -1,14 +1,10 @@
 ---
 templateKey: footer
 logoImage:
-  image: /img/js-wakanda.png
-  imageAlt: JavaScript Wakanda
+  image: /img/62118539_2413425558885654_59577790415859.webp
+  imageAlt: Warwick First Aid Society
   tagline: Your friendly local Wakanda meetup
 socialLinks:
-  - image: /img/meetup.svg
-    imageAlt: Join us on meetup.com
-    label: meetup.com
-    linkURL: 'https://www.meetup.com/'
   - image: /img/twitter.svg
     imageAlt: Follow us on Twitter
     label: twitter.com
@@ -17,9 +13,6 @@ socialLinks:
     imageAlt: Join our Facebook group
     label: facebook.com
     linkURL: 'https://www.facebook.com/'
-  - image: /img/email.svg
-    imageAlt: Contact us by email
-    label: email us
-    linkURL: 'mailto:contact@js-wakanda.org'
+  - {}
 ---
 
