@@ -1,13 +1,13 @@
 ---
 templateKey: navbar
 menuItems:
-  - label: home
+  - label: Society
     linkType: internal
     linkURL: /
-  - label: about
+  - label: Voulunteer
     linkType: internal
     linkURL: /about
-  - label: past meetups
+  - label: Team
     linkType: internal
     linkURL: /meetups
 ---
